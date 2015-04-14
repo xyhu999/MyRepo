@@ -1,0 +1,30 @@
+id                                      id                                      0
+gmt_create                              gmt_create                              0
+gmt_modified                            gmt_modified                            0
+version                                 version                                 0
+product_name                            product_name                            0
+parent_id                               parent_id                               0
+is_parent                               is_parent                               0
+biz_type                                biz_type                                0
+trade_flow_type                         trade_flow_type                         0
+order_status                            order_status                            0
+fund_status                             fund_status                             0
+gmt_pay_success                         gmt_pay_success                         0
+gmt_trigger                             gmt_trigger                             0
+logistics_status                        logistics_status                        0
+issue_status                            issue_status                            0
+frozen_status                           frozen_status                           0
+gmt_trade_end                           gmt_trade_end                           0
+gmt_trade_archive                       gmt_trade_archive                       0
+buyer_aliid                             buyer_aliid                             0
+buyer_signer_fullname                   buyer_signer_fullname                   0
+buyer_operator_aliid                    buyer_operator_aliid                    0
+seller_aliid                            seller_aliid                            0
+seller_signer_fullname                  seller_signer_fullname                  0
+seller_operator_aliid                   seller_operator_aliid                   0
+order_amount                            order_amount                            0
+order_amount_currency                   order_amount_currency                   0
+is_child                                is_child                                0
+biz_version                             biz_version                             0
+                                        site_productname
+                                        gmt_fund_end
